@@ -8,7 +8,7 @@ Embodied AI is a crucial frontier in robotics, capable of planning and executing
 
 ## 🗓️ Schedule
 - [ ] We have release the [EgoCOT dataset](https://github.com/EmbodiedGPT/EgoCOT_Dataset/)
-- [ ] Release code and models before March 30th,2024(7B version and 13B version).  
+- [ ] Release code and models before March 30th,2024(7B version and a larger and stronger 13B version).  
 
 ## 🏠 Overview
 <img width="800" alt="image" src="https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/blob/main/assest/overall_frame_embodiedgpt.png">
